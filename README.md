@@ -1,29 +1,17 @@
 # WeatherApp
 
-This template should help get you started developing with Vue 3 in Vite.
+这是基于Vue3以及Tailtind CSS所开发的一款天气预报App
 
-## Recommended IDE Setup
+## 使用技术
+- Vue3
+- Tailtind
+- JavaScript
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## 调用Api
 
-## Customize configuration
+- [mapbox](https://www.mapbox.com/)
+- [otherweathermap](https://openweathermap.org/)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## 展示网址 
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+[>>>点击这里前往<<<](weatherhelper.netlify.app)
